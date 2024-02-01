@@ -7,3 +7,5 @@
 2. Presentasi tes COVID
 3. Perbandingan total kematian dan total kasus
 4. Presentasi antara populasi, total kasus, dan total kematian
+
+## Terima kasih telang meluangkan waktu untuk melihat =)
